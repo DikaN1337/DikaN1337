@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DikaN</h1>
-<h3 align="center">Freelance programmer based in Portugal</h3>
+<h3 align="center">Freelance programmer, artist and gamer based in Portugal</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dikan1337" alt="dikan1337" /></a> </p>
 
@@ -19,6 +19,8 @@
 <a href="https://instagram.com/_diogo04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_diogo04" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@DikaN1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@DikaN1337" height="30" width="40" /></a>
 <a href="https://discord.gg/wiggass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wiggass" height="30" width="40" /></a>
+<a href="https://twitch.tv/DikaNStreams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="DikaNStreams" height="30" width="40" /></a>
+<a href="https://open.spotify.com/artist/2WiOVks2467VjIn0cWDewf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="DikaN" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
