@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **any project that don't take a lot of time. Little things.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DikaN1337?tab=repositories](GitHub)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/DikaN1337?tab=repositories)
 
 - 💬 Ask me about **PHP, Lua & Javascript**
 
-- 📫 How to reach me **contacto@dcandido.me**
+- 📫 How to reach me: **contacto@dcandido.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
