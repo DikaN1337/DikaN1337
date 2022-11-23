@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any project that don't take a lot of time. Little things.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DikaN1337?tab=repositories](https://github.com/DikaN1337?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/DikaN1337?tab=repositories](GitHub)
 
 - 💬 Ask me about **PHP, Lua & Javascript**
 
